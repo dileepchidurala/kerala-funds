@@ -1,6 +1,6 @@
 const express = require('express'),
   app = express(),
-  bodyParser = require('body-Parser'),
+  bodyParser = require('body-parser'),
   path = require('path'),
   http = require('http'),
   cors = require('cors'),
