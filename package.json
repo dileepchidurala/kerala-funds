@@ -1,0 +1,29 @@
+{
+  "name": "keralafunds",
+  "version": "1.0.0",
+  "description": "A project to collect funds internally for kerala",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Angular",
+    "covalent",
+    "nodejs",
+    "Kerala",
+    "funds"
+  ],
+  "author": "Dileep",
+  "license": "ISC",
+  "dependencies": {
+    "log-to-file": "^1.2.2",
+    "node-sspi": "^0.2.3",
+    "cors": "^2.8.4",
+    "node-teradata": "^1.5.0",
+    "nodejs-nodemailer-outlook": "^1.0.8",
+    "npm": "^6.4.0",
+    "time": "^0.12.0",
+    "time-stamp": "^2.1.0"
+  }
+}
