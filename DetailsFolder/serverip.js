@@ -1,6 +1,6 @@
 class serverip {
   constructor() {
-    this.ipaddress = 'sdl31103.labs.teradata.com';
+    this.ipaddress = '153.65.166.82';
     this.port = '3000';
   }
 }
